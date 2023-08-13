@@ -7,16 +7,16 @@ String: code
 
 Number of patterns: 12
 
-code
-cdeo
-ceod
-ocde
-odec
-oecd
-dcoe
-doec
-deco
-ecod
-eodc
-edco
+code<br>
+cdeo<br>
+ceod<br>
+ocde<br>
+odec<br>
+oecd<br>
+dcoe<br>
+doec<br>
+deco<br>
+ecod<br>
+eodc<br>
+edco<br>
 
